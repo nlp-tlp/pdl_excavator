@@ -34,7 +34,7 @@ The package also includes a useful standalone dictionary of wrong words and thei
 
 One of the datasets, the "excavator data set" has been widely used and since the PDL web site was closed down in 2021 we make this data set openly available here in the Git repo. There are 5485 records.
 
-The data set can be downloaded [600k_data](data\Excavator_2015_Raw_ForPDL.csv) and used under CC-BY-4.0 licence.
+The data set can be downloaded [5485_record_data](data\Excavator_2015_Raw_ForPDL.csv) and used under CC-BY-4.0 licence.
 
 The data set is described in the Hodkiewicz and Batsioudis (2017) paper and represents the 5 units in Shovel Set A.
 
@@ -47,7 +47,7 @@ Hodkiewicz, M.R., Batsioudis, Z., Radomiljac, T. and Ho, M.T., 2017, October. Wh
 
 This large data set (>600k records) was described in the Hodkiewicz and Ho (2016) paper. It has been anonymised.
 
-The data set can be downloaded [Excavator_bucket_data](data\wo-mobileequip-anon-600k.xlsx) and used under CC-BY-4.0 licence.
+The data set can be downloaded [600k_data](data\wo-mobileequip-anon-600k.xlsx) and used under CC-BY-4.0 licence.
 
 ### Relevant citation
 Hodkiewicz, M. and Ho, M.T.W., 2016. Cleaning historical maintenance work order data for reliability analysis. Journal of Quality in Maintenance Engineering, 22(2), pp.146-163.
